@@ -1,0 +1,261 @@
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/white"
+    android:paddingLeft="3dp"
+    android:paddingRight="3dp"
+    android:paddingTop="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_margin="1dp"
+        >
+
+        <TextView
+            android:id="@+id/Text_BAR"
+            style="@style/dimensiones"
+            android:text="@string/bares"
+            android:textSize="50sp"
+            android:layout_gravity="center"
+            android:textColor="@color/slategray"
+            android:gravity="right"
+            android:layout_marginTop="20dp"
+            />
+
+        <TextView
+            android:id="@+id/Text_BAR_1"
+            style="@style/dimensiones"
+            android:text="@string/disco_1"
+            android:textSize="25sp"
+            android:layout_gravity="center"
+            android:textColor="@color/dodgerblue"
+            android:layout_marginTop="20dp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal">
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:orientation="vertical"
+                android:background="@color/white">
+
+                <TextView
+
+                    style="@style/dimensiones"
+                    android:text="@string/hotel_Direccion"
+                    android:textSize="15sp"
+                    android:textColor="@color/black"
+                    />
+                <TextView
+
+                    style="@style/dimensiones"
+                    android:text="@string/direBar_1"
+                    android:textSize="15sp"
+                    android:textColor="@color/chocolate"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    />
+                <TextView
+
+                    style="@style/dimensiones"
+                    android:text="@string/hora_servicio"
+                    android:textSize="15sp"
+                    android:textColor="@color/black"
+                    />
+                <TextView
+
+                    style="@style/dimensiones"
+                    android:text="@string/HoraAT_1"
+                    android:textSize="13sp"
+                    android:textColor="@color/chocolate"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="3"
+                android:orientation="vertical"
+                android:background="@color/white">
+                <ImageView
+                    style="@style/dimensiones"
+                    android:src="@drawable/mirador"
+                    android:layout_gravity="center"
+                    android:gravity="center"/>
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+
+        <TextView
+            android:id="@+id/Text_BAR_2"
+            style="@style/dimensiones"
+            android:text="@string/disco_2"
+            android:textSize="25sp"
+            android:layout_gravity="center"
+            android:textColor="@color/dodgerblue"
+            android:layout_marginTop="40dp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal">
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="3"
+                android:orientation="vertical"
+                android:background="@color/white">
+                <ImageView
+                    style="@style/dimensiones"
+                    android:src="@drawable/palmitas"
+                    android:layout_gravity="center"
+                    android:gravity="center"/>
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:orientation="vertical"
+                android:background="@color/white"
+                android:layout_marginTop="30dp">
+
+                <TextView
+
+                    style="@style/dimensiones"
+                    android:text="@string/hotel_Direccion"
+                    android:textSize="15sp"
+                    android:textColor="@color/black"
+                    />
+                <TextView
+
+                    style="@style/dimensiones"
+                    android:text="@string/direBar_2"
+                    android:textSize="15sp"
+                    android:textColor="@color/chocolate"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    />
+                <TextView
+
+                    style="@style/dimensiones"
+                    android:text="@string/hora_servicio"
+                    android:textSize="15sp"
+                    android:textColor="@color/black"
+                    />
+                <TextView
+
+                    style="@style/dimensiones"
+                    android:text="@string/HoraAT"
+                    android:textSize="13sp"
+                    android:textColor="@color/chocolate"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    />
+            </LinearLayout>
+        </LinearLayout>
+
+
+
+        <TextView
+            android:id="@+id/Text_BAR_3"
+            style="@style/dimensiones"
+            android:text="@string/disco_3"
+            android:textSize="25sp"
+            android:layout_gravity="center"
+            android:textColor="@color/dodgerblue"
+            android:layout_marginTop="40dp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal">
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:orientation="vertical"
+                android:background="@color/white">
+
+                <TextView
+
+                    style="@style/dimensiones"
+                    android:text="@string/hotel_Direccion"
+                    android:textSize="15sp"
+                    android:textColor="@color/black"
+
+                    />
+                <TextView
+                    style="@style/dimensiones"
+                    android:text="@string/direBar_3"
+                    android:textSize="15sp"
+                    android:textColor="@color/chocolate"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    />
+                <TextView
+
+                    style="@style/dimensiones"
+                    android:text="@string/hora_servicio"
+                    android:textSize="15sp"
+                    android:textColor="@color/black"
+
+                    />
+                <TextView
+
+                    style="@style/dimensiones"
+                    android:text="@string/HoraAT"
+                    android:textSize="13sp"
+                    android:textColor="@color/chocolate"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="3"
+                android:orientation="vertical"
+                android:background="@color/white">
+                <ImageView
+
+                    style="@style/dimensiones"
+                    android:src="@drawable/la_noche"
+                    android:layout_gravity="center"
+                    android:gravity="center"/>
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+
+
+
+        <ImageButton
+            android:layout_marginTop="20dp"
+            android:id="@+id/Bt_Back"
+            style="@style/dimensiones"
+            android:src="@drawable/back"
+            android:background="@color/white"
+            android:layout_gravity="right"
+
+            />
+
+    </LinearLayout>
+</ScrollView>

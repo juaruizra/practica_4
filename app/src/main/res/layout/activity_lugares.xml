@@ -1,0 +1,190 @@
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/white"
+    android:paddingLeft="3dp"
+    android:paddingRight="3dp"
+    android:paddingTop="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_margin="1dp"
+        >
+
+        <TextView
+            android:id="@+id/lugar1"
+            style="@style/dimensiones"
+
+            android:text="@string/lugares_titulo"
+            android:textSize="35sp"
+            android:layout_gravity="center"
+            android:textColor="@color/dodgerblue"
+            android:gravity="left"
+            android:layout_marginTop="30dp"
+            />
+        <TextView
+            android:id="@+id/lugar2"
+            style="@style/dimensiones"
+            android:text="@string/lugares_titulo_1"
+            android:textSize="23sp"
+            android:layout_gravity="center"
+            android:textColor="@color/orange"
+            android:layout_marginTop="30dp"/>
+
+        <TextView
+
+            style="@style/dimensiones"
+            android:text="@string/lugares_titulo_1_texto"
+            android:textSize="15sp"
+            android:layout_gravity="center"
+            android:textColor="@color/gray"
+            android:layout_marginTop="10dp"
+            />
+
+        <ImageView
+            style="@style/dimensiones"
+            android:src="@drawable/img1"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_marginTop="20dp"/>
+
+
+
+
+        <TextView
+            android:id="@+id/lugar3"
+            style="@style/dimensiones"
+            android:text="@string/lugares_titulo_2"
+            android:textSize="23sp"
+            android:layout_gravity="center"
+            android:textColor="@color/dodgerblue"
+            android:layout_marginTop="50dp"/>
+
+        <TextView
+
+            style="@style/dimensiones"
+            android:text="@string/lugares_titulo_2_texto"
+            android:textSize="15sp"
+            android:layout_gravity="center"
+            android:textColor="@color/gray"
+            android:layout_marginTop="10dp"
+            />
+
+        <ImageView
+            style="@style/dimensiones"
+            android:src="@drawable/img2"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_marginTop="20dp"/>
+
+
+
+
+
+        <TextView
+            android:id="@+id/lugar4"
+            style="@style/dimensiones"
+            android:text="@string/lugares_titulo_3"
+            android:textSize="23sp"
+            android:layout_gravity="center"
+            android:textColor="@color/orange"
+            android:layout_marginTop="50dp"/>
+
+        <TextView
+
+            style="@style/dimensiones"
+            android:text="@string/lugares_titulo_3_texto"
+            android:textSize="15sp"
+            android:layout_gravity="center"
+            android:textColor="@color/gray"
+            android:layout_marginTop="10dp"
+            />
+
+        <ImageView
+            style="@style/dimensiones"
+            android:src="@drawable/img4"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_marginTop="20dp"/>
+
+
+
+
+
+
+        <TextView
+            android:id="@+id/lugar5"
+            style="@style/dimensiones"
+            android:text="@string/lugares_titulo_4"
+            android:textSize="23sp"
+            android:layout_gravity="center"
+            android:textColor="@color/dodgerblue"
+            android:layout_marginTop="50dp"/>
+
+        <TextView
+
+            style="@style/dimensiones"
+            android:text="@string/lugares_titulo_4_texto"
+            android:textSize="15sp"
+            android:layout_gravity="center"
+            android:textColor="@color/gray"
+            android:layout_marginTop="10dp"
+            />
+
+        <ImageView
+            style="@style/dimensiones"
+            android:src="@drawable/estrella"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_marginTop="20dp"/>
+
+
+
+
+        <TextView
+            android:id="@+id/lugar6"
+            style="@style/dimensiones"
+            android:text="@string/lugares_titulo_5"
+            android:textSize="23sp"
+            android:layout_gravity="center"
+            android:textColor="@color/orange"
+            android:layout_marginTop="50dp"
+            android:gravity="center"
+            />
+
+        <TextView
+
+            style="@style/dimensiones"
+            android:text="@string/lugares_titulo_5_texto"
+            android:textSize="15sp"
+            android:layout_gravity="center"
+            android:textColor="@color/gray"
+            android:layout_marginTop="10dp"
+            />
+
+        <ImageView
+            style="@style/dimensiones"
+            android:src="@drawable/castillo"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_marginTop="20dp"/>
+
+
+
+
+        <ImageButton
+            android:layout_marginTop="40dp"
+            android:id="@+id/Bt_Back"
+            style="@style/dimensiones"
+            android:src="@drawable/back"
+            android:background="@color/white"
+            android:layout_gravity="center"
+
+            />
+
+
+    </LinearLayout>
+</ScrollView>

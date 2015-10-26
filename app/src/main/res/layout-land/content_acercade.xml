@@ -1,0 +1,65 @@
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/white"
+    android:paddingLeft="3dp"
+    android:paddingRight="3dp"
+    android:paddingTop="10dp"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_margin="1dp"
+        >
+
+        <TextView
+            android:id="@+id/acer_0"
+            style="@style/dimensiones"
+            android:text="@string/Acercade"
+            android:textSize="30sp"
+            android:layout_gravity="left"
+            android:textColor="@color/greenyellow"
+            android:gravity="left"
+            android:layout_marginTop="50dp"
+            />
+
+        <TextView
+            android:id="@+id/acer_1"
+            style="@style/dimensiones"
+            android:text="@string/Nombre"
+            android:textSize="15sp"
+            android:layout_gravity="center"
+            android:textColor="@color/gray"
+            android:layout_marginTop="20dp"/>
+        <TextView
+            android:id="@+id/acer_2"
+            style="@style/dimensiones"
+            android:text="@string/Estudios"
+            android:textSize="15sp"
+            android:layout_gravity="center"
+            android:textColor="@color/gray"
+            android:layout_marginTop="5dp"/>
+        <TextView
+            android:id="@+id/acer_3"
+            style="@style/dimensiones"
+            android:text="@string/Contacto"
+            android:textSize="15sp"
+            android:layout_gravity="center"
+            android:textColor="@color/gray"
+            android:layout_marginTop="5dp"/>
+        <ImageButton
+            android:layout_marginTop="40dp"
+            android:id="@+id/Bt_Back"
+            style="@style/dimensiones"
+            android:src="@drawable/back"
+            android:background="@color/white"
+            android:layout_gravity="center"
+
+            />
+
+
+    </LinearLayout>
+</ScrollView>

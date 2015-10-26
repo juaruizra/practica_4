@@ -1,0 +1,78 @@
+<resources>
+    <string name="Acercade">Desarrollador</string>
+    <string name="Nombre">Nombre: Juan Andrés Ruiz</string>
+    <string name="Estudios">Estudiante Ing Electrónica</string>
+    <string name="Contacto">Email:juaruizra@gmail.com</string>
+
+
+    <string name="titulo_demografia">Demográfia</string>
+    <string name="intro_demografia">Guainía es uno de los 32 departamentos de Colombia. Se encuentra localizado al oriente del país. Antiguamente era una comisaria, pero desde 1991 es oficialmente un departamento. </string>
+    <string name="intro2_demografia">Limita al norte con el departamento del Vichada, al oriente con los ríos Atabapo, Guainía, Negro y frontera con la República de Venezuela, al sur con la República del Brasil y al occidente con los departamentos del Guaviare y Vaupés. </string>
+    <string name="Demo1">Coordenadas: 3°51′55″N 67°55′26″O </string>
+    <string name="Demo2">Capital: Inírida</string>
+    <string name="Demo3">Subdivisiones: 1 municipio y 8 corregimientos </string>
+    <string name="Demo4">Fundación: 13 de julio de 1963</string>
+    <string name="Demo5">Superficie:72 238 km²1 2</string>
+    <string name="Demo6">Población (2015):41.482 hab</string>
+    <string name="Demo7">Densidad:0,57 hab/km²</string>
+    <string name="Demo8">Gentilicio: Guainiano, Guainarense</string>
+
+
+    <string name="app_name">Colombia Turística V 1.0</string>
+    <string name="action_settings">action_settings</string>
+    <string name="guainia"> GUAINIA </string>
+    <string name="tierra"> Tierra de Muchas Aguas..! </string>
+    <string name="aceptar">Settings</string>
+    <string name="back">Back..!</string>
+    <string name="title_activity_hotel">HotelActivity</string>
+
+    <string name="hotel">HOTELERIA</string>
+    <string name="hotel_Horario">24 Horas</string>
+    <string name="hotel_Direccion">Dirección:</string>
+    <string name="hotel_email">Correo-e:</string>
+
+    <string name="hotel_1">La Cabaña Guainiana</string>
+    <string name="hotel_1_Direccion">Calle 16 15-57</string>
+    <string name="hotel_1_email">joacohotel@hotmail.com</string>
+
+
+    <string name="hotel_2">Tonina´s Hotel-Tours </string>
+    <string name="hotel_2_Direccion">AV Principal-Centro</string>
+    <string name="hotel_2_email">www.toninashotel.com</string>
+
+    <string name="hotel_3"> Ecohotel Manaka </string>
+    <string name="hotel_3_Direccion">Via al Aeropuerto</string>
+    <string name="hotel_3_email">ecohotel.manaka.googlepages.com</string>
+
+    <string name="bares"> DiscoTKs</string>
+    <string name="disco_1"> El Mirador </string>
+    <string name="disco_2"> Las Palmitas </string>
+    <string name="disco_3"> La Noche</string>
+
+    <string name="HoraAT_1"> 4pm-4am </string>
+    <string name="HoraAT"> 7pm-2am </string>
+
+    <string name="direBar_1"> Muelle Principal </string>
+    <string name="direBar_2"> Av Principal </string>
+    <string name="direBar_3"> Zona Rosa </string>
+    <string name="hora_servicio"> Horario: </string>
+    <string name="title_activity_acercade">AcercadeActivity</string>
+    <string name="title_activity_demografia">demografiaActivity</string>
+
+
+    <string name="lugares_titulo">Sitios de Interés</string>
+    <string name="lugares_titulo_1">Cerros del Mavicure</string>
+    <string name="lugares_titulo_2">Visita a los sicuani y piapoco</string>
+    <string name="lugares_titulo_3">PNN Puinawi</string>
+    <string name="lugares_titulo_4">Estrella Fluvial del Sur</string>
+    <string name="lugares_titulo_5">Castillo del Fuerte de San Felipe </string>
+
+    <string name="lugares_titulo_1_texto">Siguiendo el rio Inírida desde la capital, después de pasar por las comunidades indígenas de Caranacoa, Huesito, El venado y remanso. Son unas inmensas rocas negras que surgen de la espesura de la selva. El ascenso no requiere equipo especial y se puede acampar.</string>
+    <string name="lugares_titulo_2_texto">Los resguardos están ubicados al pie de los grandes ríos, por lo cual es fácil el acceso a las comunidades. El plan consiste en acompañar a los nativos a sus faenas de caza, pesca y recolección de frutos, en aprender a remar sus canoas, y a fabricar lanzas y trampas.</string>
+    <string name="lugares_titulo_3_texto">"En la serranía de Caranacoa, entre el rio Inírida y la frontera con Brasil, se extiende una zona de más de un millón de hectáreas de selvas y sabanas, con montañas y columnas de granito.\n\n El parque alberga unas 180 especies de mamíferos, y varias de reptiles y peces. Es un santuario muy húmedo y cálido, que en buen parte permanece inundado varios meses del año."</string>
+    <string name="lugares_titulo_4_texto">"Está ubicado en la frontera Colombo-Venezolana. nombre dado por el científico alemán Alexander Vonn Humboltd, hace más de 200 años. Está conformada por la confluencia de los ríos Orinoco, Atabapo y Guaviare. \n\n Allí se puede observar la majestuosidad de la estrella fluvial, unión de los ríos, Guaviare, Orinoco y Atabapo. Se aprecia cómo se intercambian el color de las aguas que bañan a este hermoso lugar. Al unirse el color del río con el color del firmamento, parece un mar que conjugado con la variedad de aves que allí habitan lo hace mucho más atractivo. "</string>
+    <string name="lugares_titulo_5_texto">"Ubicado en el corregimiento de San Felipe, en el extremo oriental de Colombia, sobre uno de los bordes de ese delgado saliente del territorio nacional, que se interna en tierras brasileñas y venezolanas. Es uno de los últimos lugares patrimoniales en ser declarado bien de interés cultural de carácter nacional y el primero que se reconoce como tal en el departamento de Guainía.\n\n El lugar de acceso es por vía aérea, en aviones tipo DC3, aproximadamente a 50 minutos de recorrido desde Inírida. También se puede llegar vía fluvial, haciendo tránsito por territorio venezolano en Maroa, con un recorrido que puede tardar unas 12 horas"</string>
+
+
+</resources>
+

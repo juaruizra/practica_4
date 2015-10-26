@@ -1,0 +1,280 @@
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/white"
+    android:paddingLeft="3dp"
+    android:paddingRight="3dp"
+    android:paddingTop="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_margin="1dp"
+        >
+
+    <TextView
+        android:id="@+id/Text_Hotel"
+        style="@style/dimensiones"
+        android:text="@string/hotel"
+        android:textSize="45sp"
+        android:layout_gravity="center"
+        android:textColor="@color/gold"
+        android:gravity="right"
+        android:layout_marginTop="20dp"
+        />
+
+    <TextView
+        android:id="@+id/Text_Hotel_1"
+        style="@style/dimensiones"
+        android:text="@string/hotel_1"
+        android:textSize="23sp"
+        android:layout_gravity="right"
+        android:textColor="@color/dodgerblue"
+        android:layout_marginTop="20dp"/>
+
+       <LinearLayout
+           style="@style/dimensiones"
+           android:layout_marginTop="10dp"
+           android:orientation="horizontal">
+       <LinearLayout
+               android:layout_width="0dp"
+               android:layout_height="wrap_content"
+               android:layout_weight="2"
+               android:orientation="vertical"
+               android:background="@color/white">
+           <TextView
+               android:id="@+id/Text_Hotel_hora"
+               style="@style/dimensiones"
+               android:text="@string/hotel_Horario"
+               android:textSize="15sp"
+               android:textColor="@color/black"
+               android:layout_gravity="center"
+               android:gravity="center"
+              />
+           <TextView
+               android:id="@+id/Text_Hotel_dire"
+               style="@style/dimensiones"
+               android:text="@string/hotel_Direccion"
+               android:textSize="15sp"
+               android:textColor="@color/black"
+               />
+           <TextView
+               android:id="@+id/Text_Hotel_1_dire"
+               style="@style/dimensiones"
+               android:text="@string/hotel_1_Direccion"
+               android:textSize="15sp"
+               android:textColor="@color/chocolate"
+               android:layout_gravity="center"
+               android:gravity="center"
+              />
+           <TextView
+               android:id="@+id/Text_Hotel_email"
+               style="@style/dimensiones"
+               android:text="@string/hotel_email"
+               android:textSize="15sp"
+               android:textColor="@color/black"
+               />
+           <TextView
+               android:id="@+id/Text_Hotel_1_email"
+               style="@style/dimensiones"
+               android:text="@string/hotel_1_email"
+               android:textSize="13sp"
+               android:textColor="@color/chocolate"
+               android:layout_gravity="center"
+               android:gravity="center"
+             />
+       </LinearLayout>
+           <LinearLayout
+               android:layout_width="0dp"
+               android:layout_height="wrap_content"
+               android:layout_weight="3"
+               android:orientation="vertical"
+               android:background="@color/white">
+               <ImageView
+                   android:id="@+id/iv_animacion"
+                   style="@style/dimensiones"
+                   android:layout_gravity="center"
+                   android:gravity="center"
+                   android:src="@drawable/h11"/>
+
+
+           </LinearLayout>
+
+       </LinearLayout>
+
+
+
+        <TextView
+            android:id="@+id/Text_Hotel_2"
+            style="@style/dimensiones"
+            android:text="@string/hotel_2"
+            android:textSize="23sp"
+            android:layout_gravity="right"
+            android:textColor="@color/dodgerblue"
+            android:layout_marginTop="20dp"/>
+
+        <LinearLayout
+            style="@style/dimensiones"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal">
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="3"
+                android:orientation="vertical"
+                android:background="@color/white">
+                <ImageView
+                    android:id="@+id/iv_animacion2"
+                    style="@style/dimensiones"
+                    android:layout_gravity="left"
+                    android:gravity="center"
+                    android:src="@drawable/h21"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_marginLeft="30dp"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:orientation="vertical"
+                android:background="@color/white">
+                <TextView
+                    android:id="@+id/Text_Hotel_hora2"
+                    style="@style/dimensiones"
+                    android:text="@string/hotel_Horario"
+                    android:textSize="15sp"
+                    android:textColor="@color/black"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    />
+                <TextView
+                    android:id="@+id/Text_Hotel_dire2"
+                    style="@style/dimensiones"
+                    android:text="@string/hotel_Direccion"
+                    android:textSize="15sp"
+                    android:textColor="@color/black"
+                    />
+                <TextView
+                    android:id="@+id/Text_Hotel_2_dire"
+                    style="@style/dimensiones"
+                    android:text="@string/hotel_2_Direccion"
+                    android:textSize="15sp"
+                    android:textColor="@color/chocolate"
+                    android:layout_gravity="right"
+                    />
+                <TextView
+                    android:id="@+id/Text_Hotel_email2"
+                    style="@style/dimensiones"
+                    android:text="@string/hotel_email"
+                    android:textSize="15sp"
+                    android:textColor="@color/black"
+                    />
+                <TextView
+                    android:id="@+id/Text_Hotel_2_email"
+                    style="@style/dimensiones"
+                    android:text="@string/hotel_2_email"
+                    android:textSize="13sp"
+                    android:textColor="@color/chocolate"
+                    />
+            </LinearLayout>
+ </LinearLayout>
+
+
+
+        <TextView
+            android:id="@+id/Text_Hotel_3"
+            style="@style/dimensiones"
+            android:text="@string/hotel_3"
+            android:textSize="23sp"
+            android:layout_gravity="right"
+            android:textColor="@color/dodgerblue"
+            android:layout_marginTop="20dp"/>
+
+        <LinearLayout
+            style="@style/dimensiones"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal">
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:orientation="vertical"
+                android:background="@color/white">
+                <TextView
+                    android:id="@+id/Text_Hotel_hora3"
+                    style="@style/dimensiones"
+                    android:text="@string/hotel_Horario"
+                    android:textSize="15sp"
+                    android:textColor="@color/black"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    />
+                <TextView
+                    android:id="@+id/Text_Hotel_dire3"
+                    style="@style/dimensiones"
+                    android:text="@string/hotel_Direccion"
+                    android:textSize="15sp"
+                    android:textColor="@color/black"
+                    />
+                <TextView
+                    android:id="@+id/Text_Hotel_3_dire"
+                    style="@style/dimensiones"
+                    android:text="@string/hotel_3_Direccion"
+                    android:textSize="15sp"
+                    android:textColor="@color/chocolate"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    />
+                <TextView
+                    android:id="@+id/Text_Hotel_email3"
+                    style="@style/dimensiones"
+                    android:text="@string/hotel_email"
+                    android:textSize="15sp"
+                    android:textColor="@color/black"
+                    />
+                <TextView
+                    android:id="@+id/Text_Hotel_3_email"
+                    style="@style/dimensiones"
+                    android:text="@string/hotel_3_email"
+                    android:textSize="13sp"
+                    android:textColor="@color/chocolate"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="3"
+                android:orientation="vertical"
+                android:background="@color/white">
+                <ImageView
+                    android:id="@+id/iv_animacion3"
+                    style="@style/dimensiones"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:src="@drawable/h33"/>
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+
+
+
+    <ImageButton
+        android:layout_marginTop="20dp"
+        android:id="@+id/Bt_Back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/back"
+        android:background="@color/white"
+        android:layout_gravity="right"
+
+            />
+
+    </LinearLayout>
+</ScrollView>

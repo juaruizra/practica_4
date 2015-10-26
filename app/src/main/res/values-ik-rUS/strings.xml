@@ -1,0 +1,78 @@
+
+<resources>
+    <string name="Acercade">Developer</string>
+    <string name="Nombre">Name: Juan Andrés Ruiz</string>
+    <string name="Estudios">Electronic Engineering student</string>
+    <string name="Contacto">Email:juaruizra@gmail.com</string>
+
+
+    <string name="titulo_demografia">Demographics</string>
+    <string name="intro_demografia">Guainia is one of 32 departments of Colombia. It is located to the east. Formerly a curator, but since 1991 is officially a department.</string>
+    <string name="intro2_demografia">It limits the north with the department of Vichada, on the east by the Atabapo, Guainía, Black rivers and border with the Republic of Venezuela, the south with the Republic of Brazil and to the west with the departments of Guaviare and Vaupés.</string>
+    <string name="Demo1">Coordinates: 3°51′55″N 67°55′26″O </string>
+    <string name="Demo2">Capital: Inírida</string>
+    <string name="Demo3">subdivisions: 1 municipality and 8 districts </string>
+    <string name="Demo4">Established: July 13, 1963</string>
+    <string name="Demo5">Surface:72 238 km²1 2</string>
+    <string name="Demo6">Population (2015):41.482 people</string>
+    <string name="Demo7">Density::0,57 hab/km²</string>
+    <string name="Demo8">Gentilicio: Guainiano, Guainarense</string>
+
+
+    <string name="app_name">Colombia Tourism V 1.0</string>
+    <string name="action_settings">action_settings</string>
+    <string name="guainia"> GUAINIA </string>
+    <string name="tierra"> Land of Many Waters..! </string>
+    <string name="aceptar">Settings</string>
+    <string name="back">Back..!</string>
+    <string name="title_activity_hotel">HotelActivity</string>
+
+    <string name="hotel">ACCOMMODATION</string>
+    <string name="hotel_Horario">24 hours</string>
+    <string name="hotel_Direccion"> Address:</string>
+    <string name="hotel_email">Email:</string>
+
+    <string name="hotel_1">The Cabin Guainiana </string>
+    <string name="hotel_1_Direccion">Street 16 15-57</string>
+    <string name="hotel_1_email">joacohotel@hotmail.com</string>
+
+
+    <string name="hotel_2">Tonina´s Hotel-Tours </string>
+    <string name="hotel_2_Direccion">strip - center</string>
+    <string name="hotel_2_email">www.toninashotel.com</string>
+
+    <string name="hotel_3"> Ecohotel Manaka </string>
+    <string name="hotel_3_Direccion">Way to Airport</string>
+    <string name="hotel_3_email">ecohotel.manaka.googlepages.com</string>
+
+    <string name="bares"> Nightclubs</string>
+    <string name="disco_1"> the terrace </string>
+    <string name="disco_2"> The Palmitas </string>
+    <string name="disco_3"> The night </string>
+
+    <string name="HoraAT_1"> 4pm-4am </string>
+    <string name="HoraAT"> 7pm-2am </string>
+
+    <string name="direBar_1"> Principal wharf </string>
+    <string name="direBar_2"> Principal avenue </string>
+    <string name="direBar_3"> Zone of discotheques </string>
+    <string name="hora_servicio"> Schedule:</string>
+    <string name="title_activity_acercade">AcercadeActivity</string>
+    <string name="title_activity_demografia">demografiaActivity</string>
+
+
+    <string name="lugares_titulo">Sites of Interest</string>
+    <string name="lugares_titulo_1">Hills of the Mavicure</string>
+    <string name="lugares_titulo_2">Visit to Sicuani and Piapoco</string>
+    <string name="lugares_titulo_3">PNN Puinawi</string>
+    <string name="lugares_titulo_4">Star South River</string>
+    <string name="lugares_titulo_5">Castle Fort San Felipe </string>
+
+    <string name="lugares_titulo_1_texto">Following the river Inírida from the capital, after passing for the communities indigenous to Caranacoa, Huesito, The deer and backwater. They are a few immense black rocks that arise from the thickness of the jungle. The ascent does not need special equipment and can camp.</string>
+    <string name="lugares_titulo_2_texto">The indigenous communities are located at the foot of the great rivers, making it easy to access communities. The plan is to accompany the natives to their tasks of hunting, fishing and gathering fruit, learning to paddle their canoes, and making spears and traps.</string>
+    <string name="lugares_titulo_3_texto">"In the mountains of Caranacoa between the Inirida river and the border with Brazil, an area of over one million hectares of forests and savannas, with mountains and extends granite columns.\n\n The park hosts some 180 species of mammals, and several reptiles and fish. It is a very wet and warm sanctuary, in good part remains flooded several months."</string>
+    <string name="lugares_titulo_4_texto">"It is located on the Colombian-Venezuelan border. name given by the German scientist Alexander Humboldt Vonn, over 200 years ago. It is formed by the confluence of the Orinoco, Atabapo and Guaviare rivers. \n\nThere you can see the majesty of the river star, joining the rivers Guaviare, Orinoco and Atabapo. It shows how the color of the waters around this beautiful place are exchanged. By joining the color of the river with the color of the sky, like a sea that combined with the variety of birds that live there it makes it much more attractive. "</string>
+    <string name="lugares_titulo_5_texto">"Located in the village of San Felipe, on the eastern tip of Colombia, on one of the edges of the thin ledge of the country, which flows into Brazilian and Venezuelan territory. It is one of the last heritage sites to be declared of cultural interest of national character and the first to be recognized as such in the department of Guainia.\n\n The site access is by air, aircraft type DC3 about a 50-minute journey from Inírida. You can also reach waterway, making transit through Venezuelan territory in Maroa, with a route that may take about 12 hours"</string>
+
+
+</resources>
